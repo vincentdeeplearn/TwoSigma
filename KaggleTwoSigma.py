@@ -379,8 +379,3 @@ for (mkt, news, pred) in days:
 env.write_submission_file()
 print("Finished.")
 
-
-# In[ ]:
-
-
-
